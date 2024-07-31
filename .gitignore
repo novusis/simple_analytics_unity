@@ -11,6 +11,7 @@
 # ===================================== #
 # Visual Studio / MonoDevelop / Rider VM #
 # ===================================== #
+/.idea
 [Ee]xported[Oo]bj/
 .vs/
 /*.userprefs
